@@ -5,7 +5,7 @@ Welcome to my sample API testing collection!
 You can review the details of my API tests by clicking the link below. I'll be adding more tests and samples over time.
 
 ## Link to the Sample Work
-https://www.postman.com/nagendratest321/nagendra-sample-api-test/globals
+https://www.postman.com/nagendratest321/nagendra-sample-api-test/overview
 
 Stay tuned for additional updates!
 
